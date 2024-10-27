@@ -5,4 +5,6 @@ In this project, a machine learning model was used to predict heart diseases bas
 
 
 •	**Disease_Detection.ipynb:** Jupyter Notebook containing the code for data preprocessing, model training, and evaluation.
+
+
 • **heart**: Folder containing the dataset used for training and testing the model.
